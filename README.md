@@ -3,9 +3,9 @@ My Name is Bashiru Muyideen. I turn number into meaningfull insight to help busi
 
 **Branch Performance Analysis**
 
-*The company's sales and growth rate in 2020 are outpacing the industry average.*
+* The company's sales and growth rate in 2020 are outpacing the industry average. *
 
-*As demand rises, we have pinpointed opportunities and suggested strategies for Growth and Expansion.*
+* As demand rises, we have pinpointed opportunities and suggested strategies for Growth and Expansion. *
 
 [Read More...](Assets/Beyond Cars.pdf)
 
@@ -14,13 +14,13 @@ My Name is Bashiru Muyideen. I turn number into meaningfull insight to help busi
 
 **HR Attrition Analysis**
 
-*A 30% attrition rate is quite relatively high, indicating that almost one-third of the employees have left the company.*
+* A 30% attrition rate is quite relatively high, indicating that almost one-third of the employees have left the company. *
 
 ![HR Attrition Dashbaord](https://github.com/user-attachments/assets/36eb4d45-19f1-44d0-be0d-b2563c1e495e)
 **............................................................................................................................**
 
 
-** Sales Conversion Rate Analysis **
+**Sales Conversion Rate Analysis**
 
 
 ![Sales Performance Dashboard](https://github.com/user-attachments/assets/b3ab9ac6-4cbb-4164-8d6e-6e5209a48571)
