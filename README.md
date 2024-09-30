@@ -12,6 +12,7 @@ My Name is Bashiru Muyideen. I turn number into meaningfull insight to help busi
 ![Car Dashboard](https://github.com/user-attachments/assets/1fdfda92-ae22-4140-ab0c-608f1cd418ef)
 **............................................................................................................................**
 
+
 **HR Attrition Analysis**
 
 * A 30% attrition rate is quite relatively high, indicating that almost one-third of the employees have left the company. *
